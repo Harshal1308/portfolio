@@ -1,6 +1,9 @@
-title: Minimal theme
+title: Harshal Pandit
 logo: /assets/img/Latest_Passport_Size.jpg
-description: Minimal is a theme for GitHub Pages.
+
+description: 
+<p align = "center">
+<a href = "docs/harshalpandit_resume.pdf">Resume</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
